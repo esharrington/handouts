@@ -6,6 +6,6 @@ My handouts project.
 
 - Elise Harrington
 
-- Rebecca Wall
+- Rebecca Wall, Stanford
 
-- Rebecca Elizabeth Wall I
+- Rebecca Elizabeth Wall I, Royalty
