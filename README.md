@@ -8,11 +8,8 @@ My handouts project.
 
 - Rebecca Wall, Stanford, California
 
-<<<<<<< HEAD
 - Rebecca Elizabeth Wall I, Royalty
-=======
-- Tihitina Andarge, UMD
 
->>>>>>> 080e38ae9cb983c9e78fd56073fbace5b98e26bd
+- Tihitina Andarge, UMD
 
 file.symlink(from = '/nfs/HealthandResourcePolicy-data', to = 'data')
