@@ -8,5 +8,7 @@ My handouts project.
 
 - Rebecca Wall, Stanford, California
 
+- Tihitina Andarge, UMD
+
 
 file.symlink(from = '/nfs/HealthandResourcePolicy-data', to = 'data')
