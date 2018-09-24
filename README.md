@@ -8,4 +8,5 @@ My handouts project.
 
 - Rebecca Wall, Stanford, California
 
-- Rebecca Elizabeth Wall I, Royalty
+
+file.symlink(from = '/nfs/HealthandResourcePolicy-data', to = 'data')
