@@ -4,7 +4,7 @@ My handouts project.
 
 ## Collaborators 
 
-- Elise Harrington
+- Elise Harrington, MIT
 
 - Rebecca Wall
 
